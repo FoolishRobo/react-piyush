@@ -20,7 +20,7 @@ const MyPageHeader = () => {
             height:'80px'
         }
     }
-    return <div className="headerStyle" style={headerDivStyle}>
+    return <div className="headerStyle elevate fixedToTop" style={headerDivStyle}>
         {isTablet &&
         <div>
             <Row>

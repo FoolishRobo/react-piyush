@@ -1,15 +1,17 @@
 import './App.css';
-import Body from './components/body/Body';
-import MyPageHeader from './components/header/Header';
+import Main from './components/main';
+import { BrowserRouter as Router, Route, Switch } from 'react-router-dom';
+import NotFound from './components/NotFound';
+
 
 function App() {
   return (
-    <div>
-    <div className="elevate fixedToTop">
-        <MyPageHeader/>
-    </div>
-    <Body />
-    </div>
+    <Router>
+    <Switch>
+      <Route exact path="/" component={Main} />
+      <Route component={NotFound} />
+    </Switch>
+  </Router>
   );
 }
 
