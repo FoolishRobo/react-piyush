@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/react-piyush/static/css/main.fc030bb8.chunk.css",
+    "main.js": "/react-piyush/static/js/main.d95d95bb.chunk.js",
+    "main.js.map": "/react-piyush/static/js/main.d95d95bb.chunk.js.map",
+    "runtime-main.js": "/react-piyush/static/js/runtime-main.fe78780f.js",
+    "runtime-main.js.map": "/react-piyush/static/js/runtime-main.fe78780f.js.map",
+    "static/css/2.de2ac02e.chunk.css": "/react-piyush/static/css/2.de2ac02e.chunk.css",
+    "static/js/2.a206845d.chunk.js": "/react-piyush/static/js/2.a206845d.chunk.js",
+    "static/js/2.a206845d.chunk.js.map": "/react-piyush/static/js/2.a206845d.chunk.js.map",
+    "static/js/3.f17bca6a.chunk.js": "/react-piyush/static/js/3.f17bca6a.chunk.js",
+    "static/js/3.f17bca6a.chunk.js.map": "/react-piyush/static/js/3.f17bca6a.chunk.js.map",
+    "index.html": "/react-piyush/index.html",
+    "static/css/2.de2ac02e.chunk.css.map": "/react-piyush/static/css/2.de2ac02e.chunk.css.map",
+    "static/css/main.fc030bb8.chunk.css.map": "/react-piyush/static/css/main.fc030bb8.chunk.css.map",
+    "static/js/2.a206845d.chunk.js.LICENSE.txt": "/react-piyush/static/js/2.a206845d.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fe78780f.js",
+    "static/css/2.de2ac02e.chunk.css",
+    "static/js/2.a206845d.chunk.js",
+    "static/css/main.fc030bb8.chunk.css",
+    "static/js/main.d95d95bb.chunk.js"
+  ]
+}
