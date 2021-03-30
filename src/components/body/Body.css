@@ -1,0 +1,53 @@
+.bodyDiv{
+    background-color: white;
+    padding: 40px 40px 20px 20px;
+    width: 100%;
+}
+
+.navIconDivDisabled{
+    padding-top: 10px;
+    border-radius: 4px;
+    text-align: center;
+    border: 1px rgb(206, 202, 202);
+    color: rgb(179, 175, 175);
+    border-style: solid;
+    height: 40px;
+    width: 40px;
+}
+
+.navIconDiv{
+    padding-top: 10px;
+    border-radius: 4px;
+    text-align: center;
+    border: 1px rgb(153, 151, 151);
+    color: rgb(61, 61, 61);
+    border-style: solid;
+    height: 40px;
+    width: 40px;
+}
+
+select{
+    border:none;
+    outline:0px;
+}
+
+.loader {
+    border: 16px solid #f3f3f3;
+    border-radius: 50%;
+    border-top: 16px solid green;
+    border-bottom: 16px solid green;
+    width: 120px;
+    height: 120px;
+    -webkit-animation: spin 2s linear infinite;
+    animation: spin 2s linear infinite;
+  }
+  
+  @-webkit-keyframes spin {
+    0% { -webkit-transform: rotate(0deg); }
+    100% { -webkit-transform: rotate(360deg); }
+  }
+  
+  @keyframes spin {
+    0% { transform: rotate(0deg); }
+    100% { transform: rotate(360deg); }
+  }

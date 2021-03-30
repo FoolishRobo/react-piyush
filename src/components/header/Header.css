@@ -1,0 +1,54 @@
+.headerStyle{
+    height: 80px;
+    padding: 20px;
+    background-color: white;
+}
+
+input{
+    border: none;
+    outline: none;
+    width: 80%;
+    height: 20px;
+}
+
+.inputDiv{
+    height: 40px;
+    width: 100%;
+    padding: 8px;
+    border: 1px rgb(207, 207, 207);
+    border-style: solid;
+    border-radius: 0px 4px 4px 0px;
+}
+.inputDiv:hover{
+    height: 40px;
+    width: 100%;
+    padding: 8px;
+    border: 1px grey;
+    border-style: solid;
+}
+
+
+.borderedButton{
+    padding-top: 6px;
+    text-align: center;
+    height: 40px;
+    width: 100px;
+    background-color: green;
+    border-radius: 4px;
+}
+
+.basicButton{
+    padding-top: 6px;
+    text-align: center;
+    height: 40px;
+    width: 100px;
+}
+.basicButton:hover{
+    padding-top: 6px;
+    text-align: center;
+    border: 1px  rgb(207, 207, 207);;
+    border-style: solid;
+    height: 40px;
+    width: 100px;
+    border-radius: 4px;
+}

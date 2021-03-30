@@ -1,0 +1,13 @@
+.searchBar{
+    height: 40px;
+    padding: 8px;
+    border: 1px rgb(207, 207, 207) solid;
+    border-radius: 4px;
+}
+
+.searchBar:hover{
+    height: 40px;
+    padding: 8px;
+    border: 1px grey solid;
+    border-radius: 4px;
+}
