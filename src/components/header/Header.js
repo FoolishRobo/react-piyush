@@ -29,7 +29,7 @@ const MyPageHeader = () => {
                 <Col  span={1}>
                     <FaBeer size="28px" />
                 </Col>
-                    <div style={{ width: '4px' }} />
+                    <div style={{ width: '2%' }} />
                 <Col  span={5}>
                     <h2>CheMondis</h2>
                 </Col>

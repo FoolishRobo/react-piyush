@@ -4,9 +4,9 @@ import '../body/Body.css'
 import { useMediaQuery } from 'react-responsive'
 import getData from '../../db/db'
 import ItemCard from './ItemCard/ItemCard';
-import SideBar from './SideBar/SideBar';
+import SideBar from './SideBar';
 import NavArrows from './NavArrows';
-import Feedback from './ItemCard/Feedback/Feedback';
+import Feedback from './Feedback';
 import Footer from '../footer/Footer';
 
 
